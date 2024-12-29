@@ -1,0 +1,14 @@
+A simple game with lua script interactions
+
+The game will work like a mmorpg, but with exceptions...
+
+HP
+MANA?
+RAGE?
+
+Classes/vocations
+
+Equipments
+3d more easy? 2d animations kind crazy
+
+For now, focus only on code. Whatever the GUI
